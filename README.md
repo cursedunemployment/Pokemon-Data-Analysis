@@ -21,4 +21,28 @@ This project takes a deep dive into the Pokemon universe through the lens of dat
 3. **Visual Aesthetics**: Leveraging custom, dark-themed, and purple-heavy color palettes in Seaborn and Matplotlib to create editorial-quality charts and graphs.
 
 ---
+
+## ✦ Visualizations
+
+A glimpse into the aesthetic and analytical data visualizations created during this project:
+
+### 📊 Pokemon Dashboard
+An overarching view of statistical correlations, type frequencies, and generation power scaling.
+![Pokemon Dashboard](images/dashboard.png)
+
+### 📈 In-Depth Metrics
+
+**Capture Rate vs. Base Total**
+A scatter plot demonstrating the negative correlation between a Pokemon's power and its catchability.
+![Capture Rate](images/capture_rate.png)
+
+**Base Total Density (Legendary vs. Non-Legendary)**
+Density estimation highlighting the significant power gap between legendary and regular Pokemon.
+![Density Plot](images/base_total_density.png)
+
+**Defense Distribution by Primary Type**
+A boxplot analysis revealing the defense capabilities across different Pokemon elements.
+![Defense Boxplot](images/defense_boxplot.png)
+
+---
 *Crafted with data-driven precision.* 🐈‍⬛✨
